@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:40:49	708/708	---MCZ	200	added ('OK')	text/plain	etag:W/%2262cfbffd-1a07%22	https://websitedemos.net/robots.txt		(from )
+09:40:50	365776/365776	---MCZ	200	added ('OK')	text/html	date:Thu,%2016%20Nov%202023%2006:40:50%20GMT	https://websitedemos.net/kathryn-ebook-author-02/	C:/My%20Web%20Sites/online%20book%20store/websitedemos.net/kathryn-ebook-author-02/index.html	(from )
